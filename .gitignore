@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# claude code 
+.claude
+.serena
+AI_INSTRUCTIONS.md
+COMMENTARY.md
+CLAUDE.md
+INTERACTION.md
+SPEC.md
+
+# セキュリティ強化
+*.log
+.env.example
+.env.local.example
